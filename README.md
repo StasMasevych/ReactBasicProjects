@@ -11,3 +11,22 @@ useEffect and Conditional Rendering
 - Menu
 - Accordion
 
+Forms
+
+- Lorem Ipsum Generator
+
+useRef
+
+- Navbar
+
+useContext
+
+- Modal And Sidebar
+- Stripe Submenus
+
+useReducer and useContext
+
+- Cart
+
+
+
