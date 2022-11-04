@@ -1,32 +1,24 @@
-# ReactMiniProjects
+# ReactBasicProjects:
 
-useState
+### - BirthdayReminder - useState;
+### - Tours - useState, useEffect and conditional rendering;
+### - Reviews - useState,conditional rendering;
+### - Menu - useState, conditional rendering;
+### - Accordion - useState, conditional rendering;
+### - LoremIpsum - Forms
+### - Navbar - useRef
+### - Sidebar-Modal - useContext
+### - StripeSubmenu - useContext
+### - Cart - useReducer and useContext
 
-- BirthdayReminder 
 
-useEffect and Conditional Rendering
 
-- Tours 
-- Reviews
-- Menu
-- Accordion
 
-Forms
 
-- LoremIpsum
 
-useRef
 
-- Navbar
 
-useContext
 
-- Sidebar-Modal
-- StripeSubmenu
-
-useReducer and useContext
-
-- Cart
 
 
 
