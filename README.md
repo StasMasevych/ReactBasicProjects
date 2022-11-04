@@ -5,11 +5,11 @@
 #### - Reviews - useState,conditional rendering;
 #### - Menu - useState, conditional rendering;
 #### - Accordion - useState, conditional rendering;
-#### - LoremIpsum - Forms
-#### - Navbar - useRef
-#### - Sidebar-Modal - useContext
-#### - StripeSubmenu - useContext
-#### - Cart - useReducer and useContext
+#### - LoremIpsum - useState, forms;
+#### - Navbar - useState, useRef, useEffect;
+#### - Sidebar-Modal - useState, useContext;
+#### - StripeSubmenu - useState, useRef, useEffect, useContext;
+#### - Cart - useState, useContext, useReducer, useEffect;
 
 
 
