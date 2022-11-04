@@ -13,7 +13,7 @@ useEffect and Conditional Rendering
 
 Forms
 
-- Lorem Ipsum Generator
+- LoremIpsum
 
 useRef
 
@@ -21,8 +21,8 @@ useRef
 
 useContext
 
-- Modal And Sidebar
-- Stripe Submenus
+- Sidebar-Modal
+- StripeSubmenu
 
 useReducer and useContext
 
