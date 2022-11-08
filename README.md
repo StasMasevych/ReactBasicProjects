@@ -10,6 +10,7 @@
 - Sidebar-Modal - useState, useContext;
 - StripeSubmenu - useState, useRef, useEffect, useContext;
 - Cart - useState, useContext, useReducer, useEffect;
+- Markdown - useState, React-Markdown library
 
 
 
