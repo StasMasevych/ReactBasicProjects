@@ -11,7 +11,7 @@
 - StripeSubmenu - useState, useRef, useEffect, useContext;
 - Cart - useState, useContext, useReducer, useEffect;
 - MarkdownPreview - useState, React-Markdown library
-- RandomUser - useState, useEffect, fetch API (https://randomuser.me), conditional rendering
+- RandomPerson - useState, useEffect, fetch API (https://randomuser.me), conditional rendering
 
 
 
