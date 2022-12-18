@@ -13,8 +13,9 @@
 - MarkdownPreview - useState, React-Markdown library
 - RandomPerson - useState, useEffect, fetch API (https://randomuser.me), conditional rendering
 
-
-
+### Run projects 
+- npm install
+- npm start
 
 
 
